@@ -1,0 +1,49 @@
+.navbar-container{
+    background-color: rgb(217, 246, 251);
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 36.5016px 29.2013px rgba(0, 0, 0, 0.0482987), 0px 17.7209px 14.1767px rgba(0, 0, 0, 0.0389404), 0px 8.6871px 6.94968px rgba(0, 0, 0, 0.0310596), 0px 3.43489px 2.74791px rgba(0, 0, 0, 0.0217013);
+    
+    border-radius: 0px 0px 25px 25px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 15px;
+}
+
+.menu-container{
+    position: absolute;
+    right: 25px;
+
+    width: 200px;
+
+    border: 3px solid #0fb7d4;
+    border-radius: 15px;
+
+    background-color: #fff;
+
+    margin-top: 10px;
+}
+
+.menu-user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.menu-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.menu-close{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 25px;
+    padding-top: 5px;
+}

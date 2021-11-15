@@ -1,0 +1,10 @@
+.list-item{
+    border-bottom: 1px solid black;
+}
+
+.field{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 15px;
+}

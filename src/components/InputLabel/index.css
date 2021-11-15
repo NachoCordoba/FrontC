@@ -1,0 +1,7 @@
+.input-label-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 15px 0px 15px 0px;
+}

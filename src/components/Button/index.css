@@ -1,0 +1,15 @@
+.button{
+    font-family: Red Rose;
+    font-style: normal;
+    font-weight: bold;
+
+    border-radius: 7px;
+
+    background-color: #0fb7d4;
+    color: #FFFFFF;
+
+    padding: 10px 15px 10px 15px;
+    margin: 15px 0px 15px 0px;
+
+    border: 0px;
+}

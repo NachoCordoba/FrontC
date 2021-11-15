@@ -1,0 +1,10 @@
+.input{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 10px 5px  10px 5px;
+    border: 1px solid #0fb7d4;
+    text-align: center;
+    font-family: Red Rose;
+    font-style: normal;
+    font-weight: bold;
+}

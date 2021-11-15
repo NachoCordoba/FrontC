@@ -1,0 +1,13 @@
+table{
+    text-align: center;
+    border: 3px solid #0fb7d4;
+}
+
+thead{
+    color: black;
+    background-color: #0fb7d4;
+}
+
+th, td {
+    border: 1px solid #96D4D4;
+  }

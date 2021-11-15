@@ -1,0 +1,14 @@
+.login-container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-logo{
+    min-width: 300px;
+    max-width: 300px;
+}
+
+.login-item{
+    margin-top: 20px;
+}

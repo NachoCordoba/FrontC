@@ -1,0 +1,10 @@
+.post-list-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.post-list{
+    width: 80%;
+}
